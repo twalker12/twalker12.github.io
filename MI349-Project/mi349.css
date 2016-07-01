@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* CSS Document */
+html{ background-color:#E08C7F;}
+
+body {
+	width:761px;
+	margin: 1.5em auto;
+}
+
+#nav{
+	
+	list-style-type:none;
+	text-decoration:none;
+	text-align:justify;
+}
+#nav li{
+	
+	display:inline;
+}
+#nav a{
+	
+	text-decoration:none;
+	background-color:#A58B5E;
+	padding:10px;
+	color:#473724;
+}
+#nav a:hover {
+	text-decoration:none;
+	color:#663E18;
+	background-color:#767676;
+}
+input[type="submit"] {
+      background:#392C18;
+      color: white;
+	  align:center;
+}
+
+p {
+	
+	padding:inherit;
+}
+h1{ 
+font-family: 'Raleway', sans-serif;
+font-weight:400;
+text-align:justify;
+}
+h2{
+	font-family: 'Raleway', sans-serif;
+	font-weight:400;
+}
+h3{
+	font-family: 'Raleway', sans-serif;
+	font-weight:400;
+	
+	
